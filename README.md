@@ -1,1 +1,1 @@
-Learn hot to edit README
+Learn how to edit README
